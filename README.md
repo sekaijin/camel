@@ -36,17 +36,17 @@ unit test your routes.
 Apache Camel comes with a lot of artifacts with components, data formats, languages and various other kinds.
 The up to date list is available online at:
 
-* Components: <a href="./components/readme.adoc#components">/components/readme.adoc#components</a>
-* Data Formats: <https://github.com/apache/camel/tree/master/components/readme.adoc#data-formats>
-* Languages: <https://github.com/apache/camel/tree/master/components/readme.adoc#expression-languages>
-* Miscellaneous: <https://github.com/apache/camel/tree/master/components/readme.adoc#miscellaneous-components>
+* Components: <a href="./components/readme.adoc#components">./components/readme.adoc#components</a>
+* Data Formats: <a href="./components/readme.adoc#data-formats">./components/readme.adoc#data-formats</a>
+* Languages: <a href="./components/readme.adoc#expression-languages">./components/readme.adoc#expression-languages</a>
+* Miscellaneous: <a href="./components/readme.adoc#miscellaneous-components">./components/readme.adoc#miscellaneous-components</a>
 
 ## Examples
 
 Apache Camel comes with many examples.
 The up to date list is available online at:
 
-* Examples: <https://github.com/apache/camel/tree/master/examples#examples>
+* Examples: <a href="./examples#examples">./examples#examples</a>
 
 ## Getting Started
 
@@ -58,7 +58,7 @@ To help you get started, try the following links:
 
 It is also recommended to get started by trying out some of the beginner examples.
 
-* Examples: <https://github.com/apache/camel/tree/master/examples/README.adoc#examples>
+* Examples: <a href="./examples/README.adoc#examples">/examples/README.adoc#examples</a>
 
 **Building**
   
@@ -68,7 +68,7 @@ It is also recommended to get started by trying out some of the beginner example
 
 We welcome contributions of all kinds, for details of how you can help
   
-<https://github.com/apache/camel/blob/master/CONTRIBUTING.md>
+<a href="./CONTRIBUTING.md">./CONTRIBUTING.md</a>
 
 Please refer to the website for details of finding the issue tracker, 
 email lists, IRC and Gitter chat
