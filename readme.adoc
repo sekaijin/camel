@@ -1,4 +1,5 @@
 = Apache Camel
+:toc: left
 
 link:https://maven-badges.herokuapp.com/maven-central/org.apache.camel/apache-camel[image:https://maven-badges.herokuapp.com/maven-central/org.apache.camel/apache-camel/badge.svg?style=flat-square[Maven Central]] link:http://www.javadoc.io/doc/org.apache.camel/camel-core[image:http://www.javadoc.io/badge/org.apache.camel/apache-camel.svg?color=brightgreen[Javadocs]] link:http://stackoverflow.com/questions/tagged/apache-camel[image:https://img.shields.io/:stack%20overflow-apache--camel-brightgreen.svg[Stack Overflow]]
 link:https://gitter.im/apache/apache-camel[image:https://img.shields.io/gitter/room/apache/apache-camel.js.svg[Gitter]]
@@ -52,7 +53,7 @@ To help you get started, try the following links:
 
 **Getting Started**
   
-link:camel.apache.org/getting-started.html
+link:camel.apache.org/getting-started.html[getting-started.html]
 
 It is also recommended to get started by trying out some of the beginner examples.
 
@@ -60,54 +61,51 @@ It is also recommended to get started by trying out some of the beginner example
 
 **Building**
   
-link:http://camel.apache.org/building.html
+http://camel.apache.org/building.html
 
 **Contributions**
 
 We welcome contributions of all kinds, for details of how you can help
   
-link:contributing.adoc[contributing]
+link:CONTRIBUTING.adoc[contributing]
 
 Please refer to the website for details of finding the issue tracker, 
 email lists, IRC and Gitter chat
   
-Website: link:http://camel.apache.org/
+Website: http://camel.apache.org/
 
-Github: link:https://github.com/apache/camel
+Github: https://github.com/apache/camel
 
-Issue tracker: link:https://issues.apache.org/jira/projects/CAMEL
+Issue tracker: https://issues.apache.org/jira/projects/CAMEL
 
-Mailing list: link:http://camel.apache.org/mailing-lists.html
+Mailing list: http://camel.apache.org/mailing-lists.html
 
-IRC chat: link:http://camel.apache.org/irc-room.html
+IRC chat: http://camel.apache.org/irc-room.html
 
-Gitter chat: link:https://gitter.im/apache/apache-camel
+Gitter chat: https://gitter.im/apache/apache-camel
 
 
 **Support**
 
 If you need support or help then read this page first
   
-link:http://camel.apache.org/support.html
+http://camel.apache.org/support.html
 
 **Forum**
 
 If you hit any problems please talk to us on the Camel Forums
   
-link:http://camel.apache.org/discussion-forums.html
+http://camel.apache.org/discussion-forums.html
 
 Please help us make Apache Camel better - we appreciate any feedback 
 you may have.
 
 Enjoy!
 
------------------
-The Camel riders!
-
 == Licensing
 
 This software is licensed under the terms you may find in the file
-named `LICENSE.txt` in this directory.
+named link:LICENSE.txt[`LICENSE.txt`] in this directory.
    
 This distribution includes cryptographic software.  The country in
 which you currently reside may have restrictions on the import,
@@ -115,7 +113,7 @@ possession, use, and/or re-export to another country, of
 encryption software.  BEFORE using any encryption software, please
 check your country's laws, regulations and policies concerning the
 import, possession, or use, and re-export of encryption software, to
-see if this is permitted.  See <http://www.wassenaar.org/> for more
+see if this is permitted.  See http://www.wassenaar.org for more
 information.
 
 The U.S. Government Department of Commerce, Bureau of Industry and
@@ -148,3 +146,6 @@ software:
 * **camel-undertow** can be configured to use https
 * **camel-xmlsecurity** can be configured for secure communications
 
+
+-----------------
+The Camel riders!
