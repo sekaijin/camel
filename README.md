@@ -36,7 +36,7 @@ unit test your routes.
 Apache Camel comes with a lot of artifacts with components, data formats, languages and various other kinds.
 The up to date list is available online at:
 
-* Components: <./components/readme.adoc#components>
+* Components: <a href="./components/readme.adoc#components">/components/readme.adoc#components</a>
 * Data Formats: <https://github.com/apache/camel/tree/master/components/readme.adoc#data-formats>
 * Languages: <https://github.com/apache/camel/tree/master/components/readme.adoc#expression-languages>
 * Miscellaneous: <https://github.com/apache/camel/tree/master/components/readme.adoc#miscellaneous-components>
