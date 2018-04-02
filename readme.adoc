@@ -1,13 +1,13 @@
 = Apache Camel
 
-image:https://maven-badges.herokuapp.com/maven-central/org.apache.camel/apache-camel/badge.svg?style=flat-square[Maven Central]image:http://www.javadoc.io/badge/org.apache.camel/apache-camel.svg?color=brightgreen[Javadocs]link:https://img.shields.io/:stack%20overflow-apache--camel-brightgreen.svg[Stack Overflow]
-https://img.shields.io/gitter/room/apache/apache-camel.js.svg[Gitter]
+image:https://maven-badges.herokuapp.com/maven-central/org.apache.camel/apache-camel/badge.svg?style=flat-square[Maven Central] image:http://www.javadoc.io/badge/org.apache.camel/apache-camel.svg?color=brightgreen[Javadocs] image:https://img.shields.io/:stack%20overflow-apache--camel-brightgreen.svg[Stack Overflow]
+image:https://img.shields.io/gitter/room/apache/apache-camel.js.svg[Gitter]
  
 
-[Apache Camel](http://camel.apache.org/) is a powerful open source integration framework based on known
+link:http://camel.apache.org/[Apache Camel] is a powerful open source integration framework based on known
 Enterprise Integration Patterns with powerful bean integration.
 
-### Introduction
+== Introduction
 
 Camel lets you create the Enterprise Integration Patterns to implement routing
 and mediation rules in either a Java based Domain Specific Language (or Fluent API),
@@ -29,72 +29,72 @@ popular frameworks such as Spring, CDI, Blueprint and Guice.
 Apache Camel has extensive testing support allowing you to easily
 unit test your routes.
 
-## Components
+== Components
 
 Apache Camel comes with a lot of artifacts with components, data formats, languages and various other kinds.
 The up to date list is available online at:
 
-* Components: link:components/readme.adoc#components[readme#components]
-* Data Formats: <a href="./components/readme.adoc#data-formats">./components/readme.adoc#data-formats</a>
-* Languages: <a href="./components/readme.adoc#expression-languages">./components/readme.adoc#expression-languages</a>
-* Miscellaneous: <a href="./components/readme.adoc#miscellaneous-components">./components/readme.adoc#miscellaneous-components</a>
+* Components: link:components/readme.adoc#components[components/readme#components]
+* Data Formats: link:components/readme.adoc#data-formats[components/readme.adoc#data-formats]
+* Languages: link:components/readme.adoc#expression-languages[components/readme.adoc#expression-languages]
+* Miscellaneous: link:components/readme.adoc#miscellaneous-components[components/readme.adoc#miscellaneous-components]
 
-## Examples
+== Examples
 
 Apache Camel comes with many examples.
 The up to date list is available online at:
 
-* Examples: <a href="./examples#examples">./examples#examples</a>
+* Examples: link:examples#examples[examples#examples]
 
-## Getting Started
+== Getting Started
 
 To help you get started, try the following links:
 
 **Getting Started**
   
-<http://camel.apache.org/getting-started.html>
+link:camel.apache.org/getting-started.html
 
 It is also recommended to get started by trying out some of the beginner examples.
 
-* Examples: <a href="./examples/README.adoc#examples">/examples/README.adoc#examples</a>
+* Examples: link:examples/README.adoc#examples[examples/README.adoc#examples]
 
 **Building**
   
-<http://camel.apache.org/building.html>
+link:http://camel.apache.org/building.html
 
 **Contributions**
 
 We welcome contributions of all kinds, for details of how you can help
   
-<a href="./CONTRIBUTING.md">./CONTRIBUTING.md</a>
+link:CONTRIBUTING.md
 
 Please refer to the website for details of finding the issue tracker, 
 email lists, IRC and Gitter chat
   
-Website: <http://camel.apache.org/>
+Website: link:http://camel.apache.org/
 
-Github: <https://github.com/apache/camel>
+Github: link:https://github.com/apache/camel
 
-Issue tracker: <https://issues.apache.org/jira/projects/CAMEL>
+Issue tracker: link:https://issues.apache.org/jira/projects/CAMEL
 
-Mailing list: <http://camel.apache.org/mailing-lists.html>
+Mailing list: link:http://camel.apache.org/mailing-lists.html
 
-IRC chat: <http://camel.apache.org/irc-room.html>
+IRC chat: link:http://camel.apache.org/irc-room.html
 
-Gitter chat: <https://gitter.im/apache/apache-camel>
+Gitter chat: link:https://gitter.im/apache/apache-camel
 
 
 **Support**
 
 If you need support or help then read this page first
   
-<http://camel.apache.org/support.html>
+link:http://camel.apache.org/support.html
 
 **Forum**
 
 If you hit any problems please talk to us on the Camel Forums
   
-<http://camel.apache.org/discussion-forums.html>
+link:http://camel.apache.org/discussion-forums.html
 
 Please help us make Apache Camel better - we appreciate any feedback 
 you may have.
@@ -104,7 +104,7 @@ Enjoy!
 -----------------
 The Camel riders!
 
-# Licensing
+= Licensing
 
 This software is licensed under the terms you may find in the file
 named `LICENSE.txt` in this directory.
