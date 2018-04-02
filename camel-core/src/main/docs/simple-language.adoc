@@ -17,7 +17,7 @@ choose a more expressive and powerful language such as:
 
 * <<spel-language,SpEL>>
 * <<mvel-component,Mvel>>
-* <<groovy-language,Groovy>>
+* link:../../../../components/camel-groovy/src/main/docs/groovy-language.adoc[Groovy]
 * JavaScript
 * <<el-language,EL>>
 * <<ognl-language,OGNL>>

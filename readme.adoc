@@ -6,12 +6,12 @@ link:https://gitter.im/apache/apache-camel[image:https://img.shields.io/gitter/r
  
 
 link:http://camel.apache.org/[Apache Camel] is a powerful open source integration framework based on known
-Enterprise Integration Patterns with powerful bean integration.
+link:camel-core/readme-eip.adoc[Enterprise Integration Patterns] with powerful bean integration.
 
 == Introduction
 
-Camel lets you create the Enterprise Integration Patterns to implement routing
-and mediation rules in either a Java based Domain Specific Language (or Fluent API),
+Camel lets you create the link:camel-core/readme-eip.adoc[Enterprise Integration Patterns] to implement routing
+and mediation rules in either a link:camel-core/readme.adoc[Java based Domain Specific Language] (or Fluent API),
 via Spring or Blueprint based Xml Configuration files, or via the Scala DSL.
 This means you get smart completion of routing rules in your IDE whether
 in your Java, Scala or XML editor.
@@ -35,10 +35,11 @@ unit test your routes.
 Apache Camel comes with a lot of artifacts with components, data formats, languages and various other kinds.
 The up to date list is available online at:
 
-* Components: link:components/readme.adoc#components[components/readme#components]
-* Data Formats: link:components/readme.adoc#data-formats[components/readme.adoc#data-formats]
-* Languages: link:components/readme.adoc#expression-languages[components/readme.adoc#expression-languages]
-* Miscellaneous: link:components/readme.adoc#miscellaneous-components[components/readme.adoc#miscellaneous-components]
+* Core Components: link:camel-core/readme.adoc[camel-core/readme]
+* Components: link:components/readme.adoc#_components[components/readme#components]
+* Data Formats: link:components/readme.adoc#_data_formats[components/readme#data-formats]
+* Languages: link:components/readme.adoc#_expression_languages[components/readme#expression-languages]
+* Miscellaneous: link:components/readme.adoc#_miscellaneous_components[components/readme#miscellaneous-components]
 
 == Examples
 

@@ -1,9 +1,7 @@
-Components
-^^^^^^^^^^
+= Core Components
+:toc: left
 
-
-
-
+== Components
 
 // components: START
 Number of Components: 26 in 1 JAR artifacts (1 deprecated)
@@ -94,16 +92,7 @@ Number of Components: 26 in 1 JAR artifacts (1 deprecated)
 // components: END
 
 
-
-
-
-
-Data Formats
-^^^^^^^^^^^^
-
-
-
-
+== Data Formats
 
 // dataformats: START
 Number of Data Formats: 4 in 40 JAR artifacts (4 deprecated)
@@ -122,18 +111,7 @@ Number of Data Formats: 4 in 40 JAR artifacts (4 deprecated)
 |===
 // dataformats: END
 
-
-
-
-
-
-
-Expression Languages
-^^^^^^^^^^^^^^^^^^^^
-
-
-
-
+== Expression Languages
 
 // languages: START
 Number of Languages: 10 in 1 JAR artifacts (0 deprecated)

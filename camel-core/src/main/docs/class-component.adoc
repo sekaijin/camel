@@ -1,10 +1,10 @@
-[[class-component]]
-== Class Component
+= Class Component
+:toc: left
 
 *Available as of Camel version 2.4*
 
 The *class:* component binds beans to Camel message exchanges. It works
-in the same way as the <<bean-component,Bean>> component but instead of
+in the same way as the link:bean-component.adoc[Bean] component but instead of
 looking up beans from a Registry it creates the bean
 based on the class name.
 
@@ -63,8 +63,7 @@ with the following path and query parameters:
 
 === Using
 
-You simply use the *class* component just as the <<bean-component,Bean>>
-component but by specifying the fully qualified classname instead. +
+You simply use the *class* component just as the link:bean-component.adoc[Bean] component but by specifying the fully qualified classname instead. +
  For example to use the `MyFooBean` you have to do as follows:
 
 [source,java]
@@ -118,16 +117,17 @@ Which will lookup a bean from the Registry with the
 id `foo` and invoke the `setCool` method on the created instance of the
 `MyPrefixBean` class.
 
-TIP:See more details at the <<bean-component,Bean>> component as the *class*
+TIP: See more details at the link:bean-component.adoc[Bean] component as the *class*
 component works in much the same way.
 
 === See Also
 
 * Configuring Camel
-* Component
+* link:../../../readme.adoc[Core Component]
+* link:../../../../components/readme.adoc[Component]
 * Endpoint
 * Getting Started
 
-* <<bean-component,Bean>>
-* Bean Binding
+* link:bean-component.adoc[Bean] component
+* link:binding-component.adoc[Binding] Component (_deprecated_)
 * Bean Integration

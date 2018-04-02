@@ -1,5 +1,5 @@
-[[Clustering-Clustering]]
-== Clustering
+= Clustering
+:toc: left
 
 *Available as of Camel 2.20*
 

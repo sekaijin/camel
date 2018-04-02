@@ -1,9 +1,9 @@
-[[dataformat-component]]
-== Data Format Component
+= Data Format Component
+:toc: left
 
 *Available as of Camel version 2.12*
 
-The *dataformat:* component allows to use link:data-format.html[Data
+The *dataformat:* component allows to use link:data-format.adoc[Data
 Format] as a Camel Component.
 
 === URI format
@@ -61,7 +61,7 @@ with the following path and query parameters:
 
 === Samples
 
-For example to use the <<jaxb-dataformat,JAXB>> link:data-format.html[Data
+For example to use the link:../../../../components/camel-jaxb/src/main/docs/jaxb-dataformat.adoc[JAXB] link:data-format.adoc[Data
 Format] we can do as follows:
 
 [source,java]

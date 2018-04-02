@@ -15,7 +15,7 @@ script is dynamic defined as well.
 This component is provided out of the box in `camel-core` and hence no
 additional JARs is needed. You only have to include additional Camel
 components if the language of choice mandates it, such as using
-<<groovy-language,Groovy>> or <<groovy-language,JavaScript>> languages.
+link:../../../../components/camel-groovy/src/main/docs/groovy-language.adoc[Groovy] or <<groovy-language,JavaScript>> languages.
 
 === URI format
 
@@ -99,7 +99,7 @@ Message Translator a message:
 In case you want to convert the message body type you can do this as
 well:
 
-You can also use the <<groovy-language,Groovy>> language, such as this
+You can also use the link:../../../../components/camel-groovy/src/main/docs/groovy-language.adoc[Groovy] language, such as this
 example where the input message will by multiplied with 2:
 
 You can also provide the script as a header as shown below. Here we use

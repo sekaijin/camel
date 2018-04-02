@@ -1,5 +1,5 @@
-[[constant-language]]
-== Constant Language
+= Constant Language
+:toc: left
 
 *Available as of Camel version 1.5*
 

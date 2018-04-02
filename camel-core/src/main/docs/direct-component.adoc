@@ -1,5 +1,5 @@
-[[direct-component]]
-== Direct Component
+= Direct Component
+:toc: left
 
 *Available as of Camel version 1.0*
 
@@ -9,11 +9,11 @@ consumers when a producer sends a message exchange. +
 camel context.
 
 TIP: *Asynchronous*
-The <<seda-component,SEDA>> component provides asynchronous invocation of
+The link:seda-component.adoc[SEDA] component provides asynchronous invocation of
 any consumers when a producer sends a message exchange.
 
 TIP: *Connection to other camel contexts*
-The <<vm-component,VM>> component provides connections between Camel
+The link:vm-component.adoc[VM] component provides connections between Camel
 contexts as long they run in the same *JVM*.
 
 === URI format
@@ -115,10 +115,10 @@ And the sample using spring DSL:
 </route>
 ----
 
-See also samples from the <<seda-component,SEDA>> component, how they can
+See also samples from the link:seda-component.adoc[SEDA] component, how they can
 be used together.
 
 === See Also
 
-* <<seda-component,SEDA>>
-* <<vm-component,VM>>
+* link:seda-component.adoc[SEDA]
+* link:vm-component.adoc[VM]
