@@ -36,7 +36,10 @@ unit test your routes.
 Apache Camel comes with a lot of artifacts with components, data formats, languages and various other kinds.
 The up to date list is available online at:
 
-* Components: <<document-b.adoc#section-b,Section B>> [components/readme.adoc#components]
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+ifdef::env-github,env-browser[:relfileprefix: ./components/]
+
+* Components: link:{relfileprefix}readme{outfilesuffix}#components[readme#components]
 * Data Formats: <a href="./components/readme.adoc#data-formats">./components/readme.adoc#data-formats</a>
 * Languages: <a href="./components/readme.adoc#expression-languages">./components/readme.adoc#expression-languages</a>
 * Miscellaneous: <a href="./components/readme.adoc#miscellaneous-components">./components/readme.adoc#miscellaneous-components</a>
