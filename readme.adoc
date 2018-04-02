@@ -66,7 +66,7 @@ link:http://camel.apache.org/building.html
 
 We welcome contributions of all kinds, for details of how you can help
   
-link:CONTRIBUTING.md
+link:contributing.adoc[contributing]
 
 Please refer to the website for details of finding the issue tracker, 
 email lists, IRC and Gitter chat
