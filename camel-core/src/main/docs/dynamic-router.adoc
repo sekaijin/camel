@@ -1,5 +1,6 @@
 = Dynamic Router
 :toc: left
+:toclevels: 5
 
 The
 http://www.enterpriseintegrationpatterns.com/DynamicRouter.html[Dynamic

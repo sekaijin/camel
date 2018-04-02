@@ -1,5 +1,6 @@
-[[HealthCheck-HealthCheck]]
-== HealthCheck
+= HealthCheck
+:toc: left
+:toclevels: 5
 
 *Available as of Camel 2.20*
 

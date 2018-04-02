@@ -1,5 +1,6 @@
 = Apache Camel
 :toc: left
+:toclevels: 5
 
 link:https://maven-badges.herokuapp.com/maven-central/org.apache.camel/apache-camel[image:https://maven-badges.herokuapp.com/maven-central/org.apache.camel/apache-camel/badge.svg?style=flat-square[Maven Central]] link:http://www.javadoc.io/doc/org.apache.camel/camel-core[image:http://www.javadoc.io/badge/org.apache.camel/apache-camel.svg?color=brightgreen[Javadocs]] link:http://stackoverflow.com/questions/tagged/apache-camel[image:https://img.shields.io/:stack%20overflow-apache--camel-brightgreen.svg[Stack Overflow]]
 link:https://gitter.im/apache/apache-camel[image:https://img.shields.io/gitter/room/apache/apache-camel.js.svg[Gitter]]

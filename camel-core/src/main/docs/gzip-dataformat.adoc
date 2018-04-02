@@ -1,11 +1,12 @@
-[[gzip-dataformat]]
-== GZip DataFormat
+= GZip DataFormat
+:toc: left
+:toclevels: 5
 
 *Available as of Camel version 2.0*
 
 The GZip Data Format is a message compression and
 de-compression format. It uses the same deflate algorithm that is used
-in <<zip-dataformat,Zip DataFormat>>, although some additional
+in link:zip-dataformat.adoc[Zip DataFormat], although some additional
 headers are provided. This format is produced by popular `gzip`/`gunzip`
 tool. Messages marshalled using GZip compression can be unmarshalled
 using GZip decompression just prior to being consumed at the endpoint.

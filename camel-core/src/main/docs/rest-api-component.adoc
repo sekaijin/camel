@@ -1,5 +1,6 @@
-[[rest-api-component]]
-== REST API Component
+= REST API Component
+:toc: left
+:toclevels: 5
 
 *Available as of Camel version 2.16*
 

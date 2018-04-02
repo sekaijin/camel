@@ -1,5 +1,6 @@
 = Control Bus Component
 :toc: left
+:toclevels: 5
 
 *Available as of Camel version 2.11*
 

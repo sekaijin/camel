@@ -1,4 +1,6 @@
-== REST DSL Component
+= REST DSL Component
+:toc: left
+:toclevels: 5
 
 *Available as of Camel version 2.16*
 
@@ -8,7 +10,7 @@ REST style with verbs such as get, post, delete etc.
 
 === How it works
 
-The Rest DSL is a facade that builds <<rest-component,Rest>> endpoints as
+The Rest DSL is a facade that builds link:rest-component.adoc[Rest] endpoints as
 consumers for Camel routes. The actual REST transport is leveraged by
 using Camel REST components such
 as <<restlet-component,Restlet>>, <<restlet-component,Spark-rest>>, and

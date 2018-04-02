@@ -1,5 +1,6 @@
 = Binding Component (_deprecated_)
 :toc: left
+:toclevels: 5
 
 *Available as of Camel version 2.11*
 

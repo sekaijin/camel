@@ -1,5 +1,6 @@
-[[log-component]]
-== Log Component
+= Log Component
+:toc: left
+:toclevels: 5
 
 *Available as of Camel version 1.1*
 
@@ -230,7 +231,7 @@ Note that the masking formatter must implement `org.apache.camel.spi.MaskingForm
 
 *Available as of Camel 2.11*
 
-With the options outlined in the <<log-component,#Formatting>> section, you
+With the options outlined in the link:log-component.adoc#Formatting[Formatting] section, you
 can control much of the output of the logger. However, log lines will
 always follow this structure:
 

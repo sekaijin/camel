@@ -1,5 +1,6 @@
-[[rest-component]]
-== REST Component
+= REST Component
+:toc: left
+:toclevels: 5
 
 *Available as of Camel version 2.14*
 
@@ -248,4 +249,4 @@ containers.
 === See Also
 
 * Rest DSL
-* <<servlet-component,SERVLET>>
+* link:../../../../components/camel-servlet/src/main/docs/servlet-component.adoc[SERVLET]
