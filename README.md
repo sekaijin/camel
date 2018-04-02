@@ -1,3 +1,7 @@
+= Apache Camel
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+ifdef::env-github,env-browser[:relfileprefix: ./components/]
+
 # Apache Camel
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.camel/apache-camel/badge.svg?style=flat-square)](https://maven-badges.herokuapp.com/maven-central/org.apache.camel/apache-camel)
@@ -35,9 +39,6 @@ unit test your routes.
 
 Apache Camel comes with a lot of artifacts with components, data formats, languages and various other kinds.
 The up to date list is available online at:
-
-ifdef::env-github,env-browser[:outfilesuffix: .adoc]
-ifdef::env-github,env-browser[:relfileprefix: ./components/]
 
 * Components: link:{relfileprefix}readme{outfilesuffix}#components[readme#components]
 * Data Formats: <a href="./components/readme.adoc#data-formats">./components/readme.adoc#data-formats</a>
